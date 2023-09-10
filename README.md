@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/anar_mammadov3" target="blank"><img src="https://img.shields.io/twitter/follow/anar_mammadov3?logo=twitter&style=for-the-badge" alt="anar_mammadov3" /></a> </p>
 
-- 🔭 I’m currently working on [Computerized_Maintenance_Management_System-CMMS](https://github.com/Anar-Mamedov/Computerized_Maintenance_Management_System-CMMS)
+- 🔭 I’m currently working on [Computerized Maintenance Management System CMMS](https://github.com/Anar-Mamedov/Computerized_Maintenance_Management_System-CMMS)
 
-- 👨‍💻 All of my projects are available at [https://anarmamedov.netlify.app/](https://anarmamedov.netlify.app/)
+- 👨‍💻 All of my projects are available at [anarmamedov.netlify.app](https://anarmamedov.netlify.app/)
 
 - 💬 Ask me about **Frontend, React,js**
 
 - 📫 How to reach me **anar.mammadov3@gmail.com**
 
-- 📄 Know about my experiences [https://www.figma.com/proto/JC3nydbhgElY9KN0l5EB4J/CV?node-id=2-2&mode=design&t=1BtUmufL2IE9YWKn-1](https://www.figma.com/proto/JC3nydbhgElY9KN0l5EB4J/CV?node-id=2-2&mode=design&t=1BtUmufL2IE9YWKn-1)
+- 📄 Know about my experiences [Click for CV](https://www.figma.com/proto/JC3nydbhgElY9KN0l5EB4J/CV?node-id=2-2&mode=design&t=1BtUmufL2IE9YWKn-1)
 
 - ⚡ Fun fact **I think I am funny**
 
