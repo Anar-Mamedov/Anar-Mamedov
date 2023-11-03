@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **anar.mammadov3@gmail.com**
 
-- 📄 Know about my experiences [Click for CV](https://www.figma.com/proto/JC3nydbhgElY9KN0l5EB4J/CV?node-id=2-2&mode=design&t=1BtUmufL2IE9YWKn-1)
+- 📄 Know about my experiences [Click for CV](https://www.figma.com/proto/JC3nydbhgElY9KN0l5EB4J/CV)
 
 - ⚡ Fun fact **I think I am funny**
 
