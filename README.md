@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/anar_mammadov3" target="blank"><img src="https://img.shields.io/twitter/follow/anar_mammadov3?logo=twitter&style=for-the-badge" alt="anar_mammadov3" /></a> </p>
 
+- 🎓 I graduated from Uludağ University's Computer Engineering department
+
 - 🔭 I’m currently working on [Computerized Maintenance Management System CMMS](https://github.com/Anar-Mamedov/Computerized_Maintenance_Management_System-CMMS)
 
 - 👨‍💻 All of my projects are available at [anarmamedov.netlify.app](https://anarmamedov.netlify.app/)
