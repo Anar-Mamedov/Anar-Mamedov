@@ -1,7 +1,7 @@
 [![MasterHead](https://redblink.com/wp-content/uploads/2019/07/1-OF0xEMkWBv-69zvmNs6RDQ.gif)](https://anarmamedov.netlify.app/)
 <h1 align="center">Hi 👋, I'm Anar</h1>
 <h3 align="center">I'm a Software Engineer</h3>
-<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1-7SaJJxeC_7CCCrO7Q2a2GsKPaKuCqrP/view?usp=sharing">
+<img align="right" alt="Coding" width="400" src="https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYSqg1LL2XpKdOIRq3_EADTXWHDFy3S4Y3I38FajYqDR_ugAXRyZEQQOmKPFK-A5fWIlo_n5R_OKUM3_lM7Lsopkw1hO7A=w3100-h1876">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anar-mamedov&label=Profile%20views&color=0e75b6&style=flat" alt="anar-mamedov" /> </p>
 
