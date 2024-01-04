@@ -9,7 +9,7 @@
 
 - 🎓 I graduated from Uludağ University's Computer Engineering department
 
-- 🔭 I’m currently working on [Computerized Maintenance Management System CMMS](https://github.com/Anar-Mamedov/Computerized_Maintenance_Management_System-CMMS)
+- 🔭 I’m currently working on [Computerized Maintenance Management System CMMS](https://github.com/Anar-Mamedov/Computerized_Maintenance_Management_System-CMMS_PBT-Pro)
 
 - 👨‍💻 All of my projects are available at [anarmamedov.netlify.app](https://anarmamedov.netlify.app/)
 
