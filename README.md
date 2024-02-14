@@ -1,4 +1,4 @@
-[![MasterHead](https://lh3.googleusercontent.com/u/2/drive-viewer/AEYmBYQz-rCBvpWaZ68umDQky1geqf84NUuY_t_IvvIeno-RbNhr3yMggjxttefoTSkGO2HPvNp6VhhAKmcuz9ZpZoBk2IE46A=w3360-h1878)](https://anarmamedov.netlify.app/)
+[![MasterHead](https://drive.google.com/file/d/1lBEVJhEpBRLcU9-OTlcv8CVLercRtlyW/view?usp=sharing)](https://anarmamedov.netlify.app/)
 <h1 align="center">Hi 👋, I'm Anar</h1>
 <h3 align="center">I'm a Software Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYSqg1LL2XpKdOIRq3_EADTXWHDFy3S4Y3I38FajYqDR_ugAXRyZEQQOmKPFK-A5fWIlo_n5R_OKUM3_lM7Lsopkw1hO7A=w3100-h1876">
