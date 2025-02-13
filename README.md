@@ -35,6 +35,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anar-mamedov&show_icons=true&locale=en" alt="anar-mamedov" /></p>
 
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=anar-mamedov" alt="GitHub Streak" />
-</a>
