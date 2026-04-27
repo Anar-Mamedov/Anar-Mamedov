@@ -3,9 +3,13 @@
 <h3 align="center">I'm a Software Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://lh3.googleusercontent.com/fife/AGXqzDn0HJSAXiFVgDVPOEai2ujwbnjPjFeEoYt6Zjnlf0DfWBFK7jCvW_hsLIhngkC0jG3WN3OEI7jc2BDK6W4qUkNi0JORxGsQXxTYGT6T2MwfEdQABR33m2J5ydYSnIpuf2_wJ3X4YXqD9ue48zkZRbMl5CjQZVFNT1Z5G00j6JmQW-IYVHIaW7_AzI3KPDmjHHRM3_pW9toYUirb9DQqTfaYcrxnT_jXqLn8hVXwJT-khHmpZPw_JxSK3vDOjDJu4fnB86wUnP81ch3s-FCkprKIF6XNSsFuFsiGlmRkm8CahFssQuF7J0SL3FsZU99p7Y2o9uynTg0aSyFxQ1DwoJv3_m7ggasJIVeEsNQuM5NPXnHZkUU3yiXK0zUF6DHoYvwNvdevt2xJOM38pxJUSo1euGecgV9DspdK9QmXp2U2WeOY1U5eYCVBcLc6TGevF2E4_XvYR9ghqjjmaSBsLIeCl6fHpycpVI957ySAggP3DmpiBkcGywIfZ8BQePkcA7wRwgRsIApn32KACgwIax8kRL0ZfZ7w2_lP3lcAuaKbKo1hGwSTCi0o-TXGAerpY4yIcNq_SR03Fmk3hTQXIGSzHLRONOopA_xFTgfbbGA1rj07qrilUTuAl824TDY5TCmgbpYgGNe1o-ACPbx6qv0Lm9Hv6gsGvM-2CpAwAeEiGuAtoQTDHpdh3-_NXXQCHrWss1TFMZLhxoRV22h4Tpa0ZkE0XbPJYYfXk2jliOBZk1C1fUkxZPE2HVMSIQbp-X42W5kfSAQfpNMresH7DzZJ8pB27--hbiav5vopZv2jgJ2LZ1gByrdMFmsMJH3CGy057BbyxomMRmM0Sp8HAhSAvAmuax5kk7Q5jW9Qq1WYHDJ0pLOj393yyLmUSjaIrX_JBYvwDbAuBg4uWv4kg6kW0HZ4YxYGNpdIMdnNeFp7icWb2AQ5wg8b-dhnM4JZt0Y9sJYhCjLGg6B8FITNDIuMbKe_uHZgTAFVBD1_GESQpQ46gBLAXW6SLIMH2vYxIF19wZl77uwimrW9SH1fs38d9IQEBW_5RCbNEWA2Emxdbt7xEDblcgDf1evfsQtSaXZ7b-c4RfkDojUz7YIYp4e9Xlgl159KcsVYREnpM2KL16TuLsNj8ETV5Z4_9zjeV1wPuE_270H-NvpRB0CRPFt-3ynwlFtk96unSu4liz0M6BXw0h-c2r1Jfa5IMO5LaTYiyXhnQfhHkBb6_-C3FWnQ4qbqMXl6kkZEQOhyaOn5OACNp6Z-E5DjGt-DP8fdsZCKnWoF13TgdUWqqg6vkr0Zdh4k2hj5ZizGAQT56hKhJK6UGuulTWTWtDgyL7LLRXF43zEdRSbNcIQMycHEh2jK39CR0ZN8FCKCO59-nTkAjtFIE2oxDOKzCkkSzw_KNqnTMmzw7u8lsAofUQvQlYnVTBIShaX2E5M7-u76irU42MlcX_9d_gSgihPOo8acmAiDyBxsQwBXuGNkLWCbKaVingaCokfER_58R7SIZ6TyDHPwNwB1INOvL1kzK-iOJQMUzENUpYPIaH_ANBykC1RCBdgkEiaDU5vjg5ijBGl_gzJmNedt-8Esq1NlIDPkEen7uqd88xXRihnBb36wCCp1gCwKC2JZO0rkJkzCOjpCFuMGatEtAgUiUsx3=w3094-h1216">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anar-mamedov&label=Profile%20views&color=0e75b6&style=flat" alt="anar-mamedov" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=anar-mamedov&label=Profile%20views&color=0e75b6&style=flat" alt="anar-mamedov" /> 
+</p>
 
-<p align="left"> <a href="https://twitter.com/anar_mammadov3" target="blank"><img src="https://img.shields.io/twitter/follow/anar_mammadov3?logo=twitter&style=for-the-badge" alt="anar_mammadov3" /></a> </p>
+<p align="left"> 
+  <a href="https://twitter.com/anar_mammadov3" target="_blank"><img src="https://img.shields.io/twitter/follow/anar_mammadov3?logo=twitter&style=for-the-badge" alt="anar_mammadov3" /></a> 
+</p>
 
 - 🎓 I graduated from Uludağ University's Computer Engineering department
 
@@ -13,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [anarmamedov.netlify.app](https://anarmamedov.netlify.app/)
 
-- 💬 Ask me about **Frontend, React,js**
+- 💬 Ask me about **Frontend, React.js**
 
 - 📫 How to reach me **anar.mammadov3@gmail.com**
 
@@ -22,17 +26,49 @@
 - ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/anar_mammadov3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anar_mammadov3" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anar-mamedov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anar-mamedov" height="30" width="40" /></a>
-<a href="https://instagram.com/anar_mammadov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anar_mammadov" height="30" width="40" /></a>
-</p>
+<div align="left">
+  <a href="https://twitter.com/anar_mammadov3" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/anar-mamedov" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+  <a href="https://instagram.com/anar_mammadov" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<div align="left">
+  <a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
+  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+  <a href="https://materializecss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/></a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a>
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a>
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a>
+  <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/></a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
+  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/></a>
+  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/></a>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anar-mamedov&show_icons=true&locale=en&layout=compact" alt="anar-mamedov" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anar-mamedov&show_icons=true&locale=en&layout=compact" alt="anar-mamedov" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anar-mamedov&show_icons=true&locale=en" alt="anar-mamedov" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anar-mamedov&show_icons=true&locale=en" alt="anar-mamedov" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anar-mamedov&" alt="anar-mamedov" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anar-mamedov&" alt="anar-mamedov" />
+</p>
