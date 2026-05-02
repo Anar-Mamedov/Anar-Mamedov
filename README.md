@@ -32,15 +32,31 @@
 
 ## Hi, I'm Anar
 
-I'm a software engineer building clean, responsive web interfaces and cross-platform mobile apps. I work mainly with React, React Native, TypeScript and JavaScript, with a focus on practical UI, reusable components and smooth user flows.
-
-- Computer Engineering graduate from Uludag University
-- Building web apps and mobile apps with React Native
-- Currently working on a Computerized Maintenance Management System (CMMS)
-- Portfolio: [anarmamedov.netlify.app](https://anarmamedov.netlify.app/)
-- CV: [View my resume](https://docs.google.com/document/d/1PR1OalDN03FvWj9BvuXW6IPA_DmJGQV1Y2F42zOYaRQ/edit?usp=sharing)
-- Ask me about frontend development, React, React Native and JavaScript
-- Based in Bursa, Turkey
+<table>
+  <tr>
+    <td width="58%" valign="top">
+      <p>
+        I'm a software engineer building clean, responsive web interfaces and cross-platform mobile apps. I work mainly with React, React Native, TypeScript and JavaScript, with a focus on practical UI, reusable components and smooth user flows.
+      </p>
+      <ul>
+        <li>Computer Engineering graduate from Uludag University</li>
+        <li>Building web apps and mobile apps with React Native</li>
+        <li>Currently working on a Computerized Maintenance Management System (CMMS)</li>
+        <li>Portfolio: <a href="https://anarmamedov.netlify.app/">anarmamedov.netlify.app</a></li>
+        <li>CV: <a href="https://docs.google.com/document/d/1PR1OalDN03FvWj9BvuXW6IPA_DmJGQV1Y2F42zOYaRQ/edit?usp=sharing">View my resume</a></li>
+        <li>Ask me about frontend development, React, React Native and JavaScript</li>
+        <li>Based in Bursa, Turkey</li>
+      </ul>
+    </td>
+    <td width="42%" align="center">
+      <img
+        width="360"
+        src="https://lh3.googleusercontent.com/fife/AGXqzDn0HJSAXiFVgDVPOEai2ujwbnjPjFeEoYt6Zjnlf0DfWBFK7jCvW_hsLIhngkC0jG3WN3OEI7jc2BDK6W4qUkNi0JORxGsQXxTYGT6T2MwfEdQABR33m2J5ydYSnIpuf2_wJ3X4YXqD9ue48zkZRbMl5CjQZVFNT1Z5G00j6JmQW-IYVHIaW7_AzI3KPDmjHHRM3_pW9toYUirb9DQqTfaYcrxnT_jXqLn8hVXwJT-khHmpZPw_JxSK3vDOjDJu4fnB86wUnP81ch3s-FCkprKIF6XNSsFuFsiGlmRkm8CahFssQuF7J0SL3FsZU99p7Y2o9uynTg0aSyFxQ1DwoJv3_m7ggasJIVeEsNQuM5NPXnHZkUU3yiXK0zUF6DHoYvwNvdevt2xJOM38pxJUSo1euGecgV9DspdK9QmXp2U2WeOY1U5eYCVBcLc6TGevF2E4_XvYR9ghqjjmaSBsLIeCl6fHpycpVI957ySAggP3DmpiBkcGywIfZ8BQePkcA7wRwgRsIApn32KACgwIax8kRL0ZfZ7w2_lP3lcAuaKbKo1hGwSTCi0o-TXGAerpY4yIcNq_SR03Fmk3hTQXIGSzHLRONOopA_xFTgfbbGA1rj07qrilUTuAl824TDY5TCmgbpYgGNe1o-ACPbx6qv0Lm9Hv6gsGvM-2CpAwAeEiGuAtoQTDHpdh3-_NXXQCHrWss1TFMZLhxoRV22h4Tpa0ZkE0XbPJYYfXk2jliOBZk1C1fUkxZPE2HVMSIQbp-X42W5kfSAQfpNMresH7DzZJ8pB27--hbiav5vopZv2jgJ2LZ1gByrdMFmsMJH3CGy057BbyxomMRmM0Sp8HAhSAvAmuax5kk7Q5jW9Qq1WYHDJ0pLOj393yyLmUSjaIrX_JBYvwDbAuBg4uWv4kg6kW0HZ4YxYGNpdIMdnNeFp7icWb2AQ5wg8b-dhnM4JZt0Y9sJYhCjLGg6B8FITNDIuMbKe_uHZgTAFVBD1_GESQpQ46gBLAXW6SLIMH2vYxIF19wZl77uwimrW9SH1fs38d9IQEBW_5RCbNEWA2Emxdbt7xEDblcgDf1evfsQtSaXZ7b-c4RfkDojUz7YIYp4e9Xlgl159KcsVYREnpM2KL16TuLsNj8ETV5Z4_9zjeV1wPuE_270H-NvpRB0CRPFt-3ynwlFtk96unSu4liz0M6BXw0h-c2r1Jfa5IMO5LaTYiyXhnQfhHkBb6_-C3FWnQ4qbqMXl6kkZEQOhyaOn5OACNp6Z-E5DjGt-DP8fdsZCKnWoF13TgdUWqqg6vkr0Zdh4k2hj5ZizGAQT56hKhJK6UGuulTWTWtDgyL7LLRXF43zEdRSbNcIQMycHEh2jK39CR0ZN8FCKCO59-nTkAjtFIE2oxDOKzCkkSzw_KNqnTMmzw7u8lsAofUQvQlYnVTBIShaX2E5M7-u76irU42MlcX_9d_gSgihPOo8acmAiDyBxsQwBXuGNkLWCbKaVingaCokfER_58R7SIZ6TyDHPwNwB1INOvL1kzK-iOJQMUzENUpYPIaH_ANBykC1RCBdgkEiaDU5vjg5ijBGl_gzJmNedt-8Esq1NlIDPkEen7uqd88xXRihnBb36wCCp1gCwKC2JZO0rkJkzCOjpCFuMGatEtAgUiUsx3=w3094-h1216"
+        alt="Coding animation"
+      />
+    </td>
+  </tr>
+</table>
 
 ## Featured Work
 
